@@ -8,9 +8,12 @@
  <br>
 <b>Screenshots</b><br></p>
   <kbd>
-  <img src="https://github.com/itpmcde/Code-Complexity-Tool/blob/master/assets/media/interface/2.png">
+  <img src="https://github.com/nieprototype/NIE/blob/master/img/readme/a.png">
   </kbd>
   <br><br>
+  <kbd>
+  <img src="https://github.com/nieprototype/NIE/blob/master/img/readme/b.png">
+  </kbd>
   
   <br>
    <p align=center>2020 © Team Chaos<br>
