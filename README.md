@@ -14,6 +14,6 @@
   
   <br>
    <p align=center>2020 © Team Chaos<br>
- <a href="https://github.com/itpmcde/Code-Complexity-Tool/graphs/contributors">Team</a>
+ <a href="https://github.com/nieprototype/NIE/graphs/contributors">Team</a>
   </p>
 </p>
