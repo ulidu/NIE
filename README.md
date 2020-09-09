@@ -4,7 +4,7 @@
 <br>
   <img width=14% src="https://raw.githubusercontent.com/nieprototype/NIE/master/img/nielogo.png"><br><br>
   <b>UI-UX Upgrade on www.nie.lk website.</b>
-  <center><img width=68% src="https://cdn.dribbble.com/users/746306/screenshots/5139253/pull_to_refresh.gif"></center>
+  <img width=68% src="https://cdn.dribbble.com/users/746306/screenshots/5139253/pull_to_refresh.gif">
  <br>
 <b>Screenshots</b><br></p>
   <kbd>
