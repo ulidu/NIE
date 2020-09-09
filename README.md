@@ -1,8 +1,8 @@
 # National Institute of Education
 
 <p align="center">
-
-  <img width=14% src="https://raw.githubusercontent.com/nieprototype/NIE/master/img/nielogo.png"><br>
+<br>
+  <img width=11% src="https://raw.githubusercontent.com/nieprototype/NIE/master/img/nielogo.png"><br>
   <b>UI-UX Upgrade on www.nie.lk website.</b><br><br>
   
   
