@@ -2,8 +2,8 @@
 
 <p align="center">
 <br>
-  <img width=11% src="https://raw.githubusercontent.com/nieprototype/NIE/master/img/nielogo.png"><br>
-  <b>UI-UX Upgrade on www.nie.lk website.</b><br><br>
+  <img width=11% src="https://raw.githubusercontent.com/nieprototype/NIE/master/img/nielogo.png"><br><br>
+  <b>UI-UX Upgrade on www.nie.lk website.</b><br>
   
   
   <img width=55% src="https://gotvantage.com/wp-content/uploads/2017/09/abtest.gif">
