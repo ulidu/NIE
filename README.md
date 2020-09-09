@@ -12,7 +12,7 @@
   </kbd>
   <br><br>
   <kbd>
-  <img src="https://github.com/nieprototype/NIE/blob/master/img/readme/b.png">
+  <img src="https://github.com/nieprototype/NIE/blob/master/img/readme/c.png">
   </kbd>
   <br><br>
   <br>
