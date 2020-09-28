@@ -1,4 +1,4 @@
-<?php include "includes/header.php"; ?>
+<?php include "includes/header.html"; ?>
 
 <!-- Hero Section Begin -->
 <section class="hero spad set-bg" data-setbg="img/slider/5.png">
@@ -72,4 +72,4 @@
 </section>
 <!-- Home About Section End -->
 
-<?php include "includes/footer.php"; ?>
+<?php include "includes/footer.html"; ?>
