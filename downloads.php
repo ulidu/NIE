@@ -11,7 +11,7 @@
                 </div>
                 <form action="#" class="filter__form">
                     <div class="filter__form__item filter__form__item--search">
-                        <p>Search Materials</p>
+                        <p>What are you looking for ?</p>
                         <div class="filter__form__input">
                             <input type="text" placeholder="Search Downloads">
                             <span class="icon_search"></span>
