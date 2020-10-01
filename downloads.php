@@ -16,6 +16,7 @@
                             <input type="text" placeholder="Search Downloads">
                             <span class="icon_search"></span>
                         </div>
+
                     </div>
                     <div class="filter__form__item">
                         <p>Grade</p>
