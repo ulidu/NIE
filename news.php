@@ -90,9 +90,9 @@
                             <p style="text-align: left; font-size: 15px;">A new nationad parents to follow A new
                                 nationad parents to follow</p>
 
-                            <div style="background-color: #ffffff00; margin-left: -9%; margin-bottom: -10%; margin-top: -17%;"
+                            <div style="background-color: #ffffff00; margin-left: -9%; margin-bottom: -10%; margin-top: -15%;"
                                  class="latest__blog__text">
-                                <a style="font-size: x-large;" href="#">Read More</a>
+                                <a style="font-size: large;" href="#">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -125,9 +125,9 @@
                             <p style="text-align: left; font-size: 15px;">A new nationad parents to follow A new
                                 nationad parents to follow</p>
 
-                            <div style="background-color: #ffffff00; margin-left: -9%; margin-bottom: -10%; margin-top: -17%;"
+                            <div style="background-color: #ffffff00; margin-left: -9%; margin-bottom: -10%; margin-top: -15%;"
                                  class="latest__blog__text">
-                                <a style="font-size: x-large;" href="#">Read More</a>
+                                <a style="font-size: large;" href="#">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -160,9 +160,9 @@
                             <p style="text-align: left; font-size: 15px;">A new nationad parents to follow A new
                                 nationad parents to follow</p>
 
-                            <div style="background-color: #ffffff00; margin-left: -9%; margin-bottom: -10%; margin-top: -17%;"
+                            <div style="background-color: #ffffff00; margin-left: -9%; margin-bottom: -10%; margin-top: -15%;"
                                  class="latest__blog__text">
-                                <a style="font-size: x-large;" href="#">Read More</a>
+                                <a style="font-size: large;" href="#">Read More</a>
                             </div>
                         </div>
                     </div>
