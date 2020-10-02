@@ -74,25 +74,25 @@
             box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form">
                     <div class="filter__form__item filter__form__item--search">
                         <div class="filter__form__input">
-                            <img width="120px" height="120px" class="img_small" src="img/school-students.jpg" style="margin: -20px">
+                            <img width="120px" height="120px" class="img_small" src="img/school-students.jpg" style="margin-left: -19px; margin-top: -4%; margin-bottom: -4%;">
                         </div>
                     </div>
 
-                    <div class="filter__form__item col-8">
+                    <div style="margin-top: -3%; margin-left: -30%;" class="filter__form__item col-8">
 
-                        <div class="kt-widget14__header kt-margin-b-30">
-                            <h3 style="font-weight: 400; margin: -8%; margin-left: -18%" class="kt-widget14__title">
+                        <div class="kt-widget14__header">
+                            <h3 style="font-weight: 400;" class="kt-widget14__title">
                                 Covid-19 : Back to School
                             </h3>
 
 
-                        </div>
-                        <p style="text-align: left; margin-left: -18%">A new nationad parents to follow</p>
 
-                        <div style="margin-bottom:-20%; margin-top: -20%; margin-right: -101%; background-color: #ffffff00" class="latest__blog__text">
-                            <a style="font-size: x-large; " href="#">Read More</a>
-                        </div>
+                        <p style="text-align: left; font-size: 15px;">A new nationad parents to follow A new nationad parents to follow</p>
 
+                        <div style="background-color: #ffffff00; margin-left: -9%; margin-bottom: -10%; margin-top: -17%;" class="latest__blog__text">
+                            <a style="font-size: x-large;" href="#">Read More</a>
+                        </div>
+                        </div>
                         </div>
 
                 </form>
