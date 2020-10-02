@@ -639,6 +639,14 @@ ol {
 	border-radius: 0;
 }
 
+.img_small {
+	display: block;
+	max-width:230px;
+	max-height:95px;
+	width: auto;
+	height: auto;
+}
+
 /*---------------------
   Home Room
 -----------------------*/
