@@ -1,7 +1,7 @@
 <?php include "includes/header.html"; ?>
 
 <!-- Hero Section Begin -->
-<section class="hero spad set-bg" data-setbg="img/d.jpg">
+<section class="hero spad set-bg" data-setbg="img/dbdf.jpg">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
