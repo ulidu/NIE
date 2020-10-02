@@ -16,7 +16,7 @@
         <div class="row">
             <div class="col-6">
 
-                <form style="position:relative;
+                <form style=" position:relative;
     -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
        -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
             box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form">
@@ -109,7 +109,7 @@
             box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form">
                     <div class="filter__form__item filter__form__item--search">
                         <div class="filter__form__input">
-                            <img width="120px" height="120px" class="img_small" src="img/school-students.jpg"
+                            <img width="120px" height="120px" class="img_small" src="img/postgraduate-01-mobile.jpg"
                                  style="margin-left: -19px; margin-top: -4%; margin-bottom: -4%;">
                         </div>
                     </div>
@@ -144,7 +144,7 @@
             box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form">
                     <div class="filter__form__item filter__form__item--search">
                         <div class="filter__form__input">
-                            <img width="120px" height="120px" class="img_small" src="img/school-students.jpg"
+                            <img width="120px" height="120px" class="img_small" src="img/smart.png"
                                  style="margin-left: -19px; margin-top: -4%; margin-bottom: -4%;">
                         </div>
                     </div>
@@ -173,8 +173,8 @@
             </div>
 
 
-
-            <div style="margin-bottom: 5%;right:0; width: 80vw;" class="ticker-wrapper">
+        </div>
+            <div style="margin-bottom: 1%; margin-top:-2%; right:0; width: 80vw;" class="ticker-wrapper">
                 <div class="bigHeading">News Line</div>
                 <div class="text-update">
                     <p><span class="dot"></span> USA extends support to develop Sri Lanka’s education system. &nbsp;&nbsp;
@@ -189,7 +189,141 @@
             </div>
 
 
+        <div class="row">
+            <div class="col-lg-12">
+                <div style="text-align: left" class="section-title">
+                    <br><br><br>
+                    <h2>SPECIAL NEWS</h2>
+                    <h5>Special News Related to Education</h5>
+                </div>
+            </div>
         </div>
+        <div class="gallery__slider owl-carousel">
+            <div class="gallery__item small__item set-bg" data-setbg="img/gallery/sp1.jpg">
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+                <form action="#" class="filter__form">
+
+                    <div style="text-align: center;" class="filter__form__item">
+
+                        <div class="kt-widget14__header">
+                            <hr class="new4">
+                            <h3 style="font-weight: 400;" class="kt-widget14__title">
+
+                                Covid-19 : Back to School
+                            </h3>
+
+<br>
+                            <p style="text-align: center; font-size: 15px;">A new nationad parents to follow A new
+                                nationad parents to follow</p>
+
+                            <hr class="new4">
+                        </div>
+                    </div>
+
+                </form>
+
+
+            </div>
+            <div class="gallery__item set-bg" data-setbg="img/gallery/sp2.jpg">
+
+
+
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+                <form action="#" class="filter__form">
+
+                    <div style="text-align: center;" class="filter__form__item">
+
+                        <div class="kt-widget14__header">
+                            <hr class="new4">
+                            <h3 style="font-weight: 400;" class="kt-widget14__title">
+
+                                Covid-19 : Back to School
+                            </h3>
+
+                            <br>
+                            <p style="text-align: center; font-size: 15px;">A new nationad parents to follow A new
+                                nationad parents to follow</p>
+
+                            <hr class="new4">
+                        </div>
+                    </div>
+
+                </form>
+
+
+
+
+            </div>
+            <div class="gallery__item set-bg" data-setbg="img/gallery/sp4.jpg">
+
+
+
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+                <form action="#" class="filter__form">
+
+                    <div style="text-align: center;" class="filter__form__item">
+
+                        <div class="kt-widget14__header">
+                            <hr class="new4">
+                            <h3 style="font-weight: 400;" class="kt-widget14__title">
+
+                                Covid-19 : Back to School
+                            </h3>
+
+                            <br>
+                            <p style="text-align: center; font-size: 15px;">A new nationad parents to follow A new
+                                nationad parents to follow</p>
+
+                            <hr class="new4">
+                        </div>
+                    </div>
+
+                </form>
+
+
+
+
+            </div>
+            <div class="gallery__item set-bg" data-setbg="img/gallery/sp3.jpg">
+
+
+
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+                <form action="#" class="filter__form">
+
+                    <div style="text-align: center;" class="filter__form__item">
+
+                        <div class="kt-widget14__header">
+                            <hr class="new4">
+                            <h3 style="font-weight: 400;" class="kt-widget14__title">
+
+                                Covid-19 : Back to School
+                            </h3>
+
+                            <br>
+                            <p style="text-align: center; font-size: 15px;">A new nationad parents to follow A new
+                                nationad parents to follow</p>
+
+
+
+
+
+                            <hr class="new4">
+                        </div>
+                    </div>
+
+                </form>
+
+
+
+            </div>
+        </div>
+    <br><br><br><br>
     </div>
 </div>
 
