@@ -83,12 +83,11 @@
 
                         <div class="kt-widget14__header">
                             <h3 style="font-weight: 400;" class="kt-widget14__title">
-                                Covid-19 : Back to School
+                                Grade V Scholarship
                             </h3>
 
 
-                            <p style="text-align: left; font-size: 15px;">A new nationad parents to follow A new
-                                nationad parents to follow</p>
+                            <p style="text-align: left; font-size: 15px;">Fifteen minutes extra will be provided for Grade V Scholarship Examination on October.</p>
 
                             <div style="background-color: #ffffff00; margin-left: -9%; margin-bottom: -10%; margin-top: -15%;"
                                  class="latest__blog__text">
@@ -118,12 +117,11 @@
 
                         <div class="kt-widget14__header">
                             <h3 style="font-weight: 400;" class="kt-widget14__title">
-                                Covid-19 : Back to School
+                                Post Graduate Diploma
                             </h3>
 
 
-                            <p style="text-align: left; font-size: 15px;">A new nationad parents to follow A new
-                                nationad parents to follow</p>
+                            <p style="text-align: left; font-size: 15px;">Registrations open for new intake of Post Graduate Diploma in Education.</p>
 
                             <div style="background-color: #ffffff00; margin-left: -9%; margin-bottom: -10%; margin-top: -15%;"
                                  class="latest__blog__text">
@@ -153,12 +151,11 @@
 
                         <div class="kt-widget14__header">
                             <h3 style="font-weight: 400;" class="kt-widget14__title">
-                                Covid-19 : Back to School
+                                Schools reopen in Sri Lanka
                             </h3>
 
 
-                            <p style="text-align: left; font-size: 15px;">A new nationad parents to follow A new
-                                nationad parents to follow</p>
+                            <p style="text-align: left; font-size: 15px;">Reopened schools after 4 months due to lockdown in Sri Lanka.</p>
 
                             <div style="background-color: #ffffff00; margin-left: -9%; margin-bottom: -10%; margin-top: -15%;"
                                  class="latest__blog__text">
@@ -180,7 +177,7 @@
                     <p><span class="dot"></span> USA extends support to develop Sri Lanka’s education system. &nbsp;&nbsp;
 
 
-                    <span class="dot"></span> Academic activities at schools as usual.
+                    <span class="dot"></span> Academic activities at schools as usual.&nbsp;&nbsp;
 
 
 
@@ -211,12 +208,11 @@
                             <hr class="new4">
                             <h3 style="font-weight: 400;" class="kt-widget14__title">
 
-                                Covid-19 : Back to School
+                                Prevent Covid-19: Stay Healthy
                             </h3>
 
 <br>
-                            <p style="text-align: center; font-size: 15px;">A new nationad parents to follow A new
-                                nationad parents to follow</p>
+                            <p style="text-align: center; font-size: 15px;">Cover your nose and mouth with a face mask when schooling</p>
 
                             <hr class="new4">
                         </div>
@@ -240,12 +236,11 @@
                             <hr class="new4">
                             <h3 style="font-weight: 400;" class="kt-widget14__title">
 
-                                Covid-19 : Back to School
+                                Greetings : Children's Day
                             </h3>
 
                             <br>
-                            <p style="text-align: center; font-size: 15px;">A new nationad parents to follow A new
-                                nationad parents to follow</p>
+                            <p style="text-align: center; font-size: 15px;">Message by Prime Minister Mahinda on the World Children’s Day</p>
 
                             <hr class="new4">
                         </div>
@@ -271,12 +266,11 @@
                             <hr class="new4">
                             <h3 style="font-weight: 400;" class="kt-widget14__title">
 
-                                Covid-19 : Back to School
+                                IDs for NCE professionals
                             </h3>
 
                             <br>
-                            <p style="text-align: center; font-size: 15px;">A new nationad parents to follow A new
-                                nationad parents to follow</p>
+                            <p style="text-align: center; font-size: 15px;">Issue Identity Cards to principals,lecturers and teachers in NCE</p>
 
                             <hr class="new4">
                         </div>
@@ -302,12 +296,11 @@
                             <hr class="new4">
                             <h3 style="font-weight: 400;" class="kt-widget14__title">
 
-                                Covid-19 : Back to School
+                                Discussions : Raise on Forum
                             </h3>
 
                             <br>
-                            <p style="text-align: center; font-size: 15px;">A new nationad parents to follow A new
-                                nationad parents to follow</p>
+                            <p style="text-align: center; font-size: 15px;">Weekly discussion forum on curriculum reforms was held on 12/10/2020</p>
 
 
 
