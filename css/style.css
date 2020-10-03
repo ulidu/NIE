@@ -30,7 +30,7 @@
 
 /* Template default CSS
 /*----------------------------------------*/
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap");
 html,
 body {
@@ -640,13 +640,7 @@ ol {
 	border-radius: 0;
 }
 
-.img_small {
-	display: block;
-	max-width:230px;
-	max-height:95px;
-	width: auto;
-	height: auto;
-}
+
 
 /*---------------------
   Home Room
@@ -1024,6 +1018,25 @@ ol {
 	content: "";
 }
 
+
+
+
+.lat_a{
+	 font-size: 16px;
+	 color: #E9AD28;
+	 font-weight: 500;
+	 font-family: "Barlow Condensed", sans-serif;
+	 display: inline-block;
+	 position: relative;
+	 padding: 2px 0;
+ }
+.lat_a:hover{
+
+	color: #19191A;
+
+}
+
+
 /*---------------------
   Car
 -----------------------*/
@@ -1201,6 +1214,20 @@ ol {
 
 .footer__about .footer__logo {
 	margin-bottom: 28px;
+}
+.hover-div{
+	border-style: solid;
+	border-width: 2px;
+	border-color: transparent transparent transparent #E9AD28;
+	transition: 0.5s;
+}
+.hover-div:hover{
+
+	border-style: solid;
+	border-width: 2px;
+	border-color: #1d1c1c;
+	cursor: pointer;
+
 }
 
 .footer__about .footer__logo a {
