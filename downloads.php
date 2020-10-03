@@ -1,7 +1,7 @@
 <?php include "includes/header.html"; ?>
 
 <!-- Hero Section Begin -->
-<section class="hero spad set-bg" data-setbg="img/dbdf.jpg">
+<section class="hero spad set-bg" data-setbg="img/slider/abv.jpg">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -10,6 +10,7 @@
                     <h2 style="font-size: 50px;">DOWNLOADS SECTION</h2>
                     <h5>Home / Downloads</h5>
                     <br><br>
+
                 </div>
                 <form action="#" style="margin-bottom: -10%" class="filter__form col-12">
                     <div style="text-align: center;" class="filter__form__item filter__form__item--search col-sm-10">
@@ -17,11 +18,18 @@
                         <div class="filter__form__input">
                             <input style="text-align: center" type="text" placeholder="Search Downloads">
                             <span class="icon_search"></span>
+
+                            <p>Top Searches : </p>
                         </div>
+
                     </div>
 
 
+
+
                     <button id="hover_search" type="submit">SEARCH</button>
+
+
                 </form>
             </div>
         </div>
