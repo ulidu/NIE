@@ -639,13 +639,7 @@ ol {
 	border-radius: 0;
 }
 
-.img_small {
-	display: block;
-	max-width:230px;
-	max-height:95px;
-	width: auto;
-	height: auto;
-}
+
 
 /*---------------------
   Home Room
@@ -1022,6 +1016,25 @@ ol {
 	background: #E9AD28;
 	content: "";
 }
+
+
+
+
+.lat_a{
+	 font-size: 16px;
+	 color: #E9AD28;
+	 font-weight: 500;
+	 font-family: "Barlow Condensed", sans-serif;
+	 display: inline-block;
+	 position: relative;
+	 padding: 2px 0;
+ }
+.lat_a:hover{
+
+	color: #19191A;
+
+}
+
 
 /*---------------------
   Car
