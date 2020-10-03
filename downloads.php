@@ -14,12 +14,17 @@
                 </div>
                 <form action="#" style="margin-bottom: -10%" class="filter__form col-12">
                     <div style="text-align: center;" class="filter__form__item filter__form__item--search col-sm-10">
-                        <p style="font-size: x-large">What are you looking for ?</p>
+
+                        <h3 class="kt-widget14__title">
+                            What are you looking for ?
+
+                        </h3>
+                        <br>
                         <div class="filter__form__input">
                             <input style="text-align: center" type="text" placeholder="Search Downloads">
                             <span class="icon_search"></span>
 
-                            <p>Top Searches : </p>
+                            <p style="margin-top: 2%; margin-bottom: -1%;">Top Searches : </p>
                         </div>
 
                     </div>
