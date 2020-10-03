@@ -1,6 +1,6 @@
-<?php include 'includes/header.html' ?>
 <!DOCTYPE html>
 <html lang="en">
+<?php include 'includes/header1.html' ?>
 <head>
     <title>Snapshot - Free Bootstrap 4 Template by Colorlib</title>
     <meta charset="utf-8">
@@ -180,7 +180,7 @@
 
                                 <div class="pl-5">
                                     <p class="name">Mrs. W.M. Dammika</p>
-                                    <span class="position">Technical Officer	</span>
+                                    <span class="position">Technical Officer</span>
                                 </div>
                             </div>
                         </div>
@@ -275,7 +275,7 @@
 
 
                     <div class="p-md-4 mt-4">
-                        <div class="col-md-8 ftco-animate">
+                        <div class="col-md-12 ftco-animate" >
                             <h1>Director General</h1>
                             <p>Dr. Sunil Jayantha Nawarathna</p>
                             <p>Director General</p>
@@ -774,8 +774,11 @@
 </section>
 
 
-
-
+<br>
+<br>
+<br>
+<br>
+<?php include 'includes/footer1.html' ?>
 
 
 
@@ -798,8 +801,10 @@
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
 <script src="js/google-map.js"></script>
 <script src="js/main_x.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
 
 </body>
 </html>
-<?php include 'includes/footer.html' ?>
+
 

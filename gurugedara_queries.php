@@ -28,17 +28,18 @@
 </head>
 
 <body>
-<div class="page-wrapper bg-gra-01 p-t-180 p-b-100 font-poppins">
+<div class="page-wrapper  p-t-180 p-b-100 font-poppins">
     <div class="wrapper wrapper--w780">
-        <div class="card card-3">
-            <div class="card-heading"></div>
-            <h3 class="card-body">
-                <h2 class="title">GURUGEDARA EDUCATIONAL TV CHANNELS</h2>
-                <h2 class="title">Eye Channel/ Nethra Channel Educational Telecast</h2>
-                <h2 class="title"></h2>
-                <form method="POST">
+        <div class="card card-3 p-5">
+
+
+                <h1 class="title text-center">GURUGEDARA EDUCATIONAL TV CHANNELS</h1>
+                <h3 class="title text-center">Eye Channel/ Nethra Channel Educational Telecast</h3>
+                <h4 class="title text-center">G.C.E. Advanced Level</h4>
+                <h5 class="title text-center">Student Queries</h5>
+                <form method="POST" class="mx-auto">
                     <div class="input-group">
-                        <div class="rs-select2 js-select-simple select--no-search">
+                        <div class="rs-select2 js-select-simple select--no-search ">
                             <select name="medium">
                                 <option disabled="disabled" selected="selected">Medium</option>
                                 <option>Sinhala</option>
@@ -49,7 +50,7 @@
                         </div>
                     </div>
                         <div class="input-group">
-                            <div class="rs-select2 js-select-simple select--no-search">
+                            <div class="rs-select2 js-select-simple select--no-search ">
                                 <select name="subject">
                                     <option disabled="disabled" selected="selected">Subject</option>
                                     <option>Male</option>
@@ -60,7 +61,7 @@
                             </div>
                         </div>
 
-                    <div class="input-group">
+                    <div class="input-group ">
                         <input class="input--style-3" type="text" placeholder="Name" name="name">
                     </div>
 
@@ -72,10 +73,10 @@
                     </div>
                     <div class="input-group">
                         <input class="input--style-3" type="text" placeholder="Queries" name="queries">
-                        <textarea rows="3" required></textarea>
+
                     </div>
-                    <div class="p-t-10">
-                        <button class="btn btn--pill btn--green" type="submit">Submit</button>
+                    <div class=" w-100 mx-auto" >
+                        <p class="text-center"> <button class="btn btn--pill btn--green  w-50" type="submit" >Submit</button></p>
                     </div>
                 </form>
             </div>
