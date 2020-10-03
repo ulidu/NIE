@@ -144,7 +144,7 @@
                                 </div>
                             </div>
 
-                            <p style="text-align: right; margin-bottom: -1%; "><a href="#" class="primary-btn">Search</a></p>
+                            <p style="text-align: right; margin-bottom: -1%; "><a href="#" style="font-family: 'Poppins',sans-serif; font-size: large;" class="primary-btn">Search</a></p>
 
                         </form>
                     </div>
@@ -235,7 +235,7 @@
                                 </div>
                             </div>
 
-                            <p style="text-align: right; margin-bottom: -1%; "><a href="#" class="primary-btn">Search</a></p>
+                            <p style="text-align: right; margin-bottom: -1%; "><a href="#" style="font-family: 'Poppins',sans-serif; font-size: large;" class="primary-btn">Search</a></p>
                         </form>
                     </div>
 
@@ -266,9 +266,7 @@
             <form style="position:relative;
     -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
        -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-border-style: solid; border-width: 2px; border-color: transparent transparent transparent #E9AD28;
-" action="#" class="filter__form">
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form hover-div">
 
 
                 <div style="margin-top: -2%;" class="filter__form__item col-8">
@@ -309,12 +307,11 @@ border-style: solid; border-width: 2px; border-color: transparent transparent tr
                 <form style="position:relative;
     -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
        -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-border-style: solid; border-width: 2px; border-color: transparent transparent transparent #E9AD28;
-" action="#" class="filter__form">
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form hover-div">
 
 
-                    <div style="margin-top: -2%;" class="filter__form__item col-8">
+
+                <div style="margin-top: -2%;" class="filter__form__item col-8">
 
                         <div class="kt-widget14__header">
                             <h3 style="font-weight: 400;" class="kt-widget14__title">
@@ -352,12 +349,11 @@ border-style: solid; border-width: 2px; border-color: transparent transparent tr
                 <form style="position:relative;
     -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
        -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-border-style: solid; border-width: 2px; border-color: transparent transparent transparent #E9AD28;
-" action="#" class="filter__form">
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form hover-div">
 
 
-                    <div style="margin-top: -2%;" class="filter__form__item col-8">
+
+                <div style="margin-top: -2%;" class="filter__form__item col-8">
 
                         <div class="kt-widget14__header">
                             <h3 style="font-weight: 400;" class="kt-widget14__title">
@@ -395,12 +391,11 @@ border-style: solid; border-width: 2px; border-color: transparent transparent tr
                 <form style="position:relative;
     -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
        -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-border-style: solid; border-width: 2px; border-color: transparent transparent transparent #E9AD28;
-" action="#" class="filter__form">
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form hover-div">
 
 
-                    <div style="margin-top: -2%;" class="filter__form__item col-8">
+
+                <div style="margin-top: -2%;" class="filter__form__item col-8">
 
                         <div class="kt-widget14__header">
                             <h3 style="font-weight: 400;" class="kt-widget14__title">
@@ -441,12 +436,11 @@ border-style: solid; border-width: 2px; border-color: transparent transparent tr
                 <form style="position:relative;
     -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
        -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-border-style: solid; border-width: 2px; border-color: transparent transparent transparent #E9AD28;
-" action="#" class="filter__form">
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form hover-div">
 
 
-                    <div style="margin-top: -2%;" class="filter__form__item col-8">
+
+                <div style="margin-top: -2%;" class="filter__form__item col-8">
 
                         <div class="kt-widget14__header">
                             <h3 style="font-weight: 400;" class="kt-widget14__title">
@@ -484,12 +478,11 @@ border-style: solid; border-width: 2px; border-color: transparent transparent tr
                 <form style="position:relative;
     -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
        -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-border-style: solid; border-width: 2px; border-color: transparent transparent transparent #E9AD28;
-" action="#" class="filter__form">
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form hover-div">
 
 
-                    <div style="margin-top: -2%;" class="filter__form__item col-8">
+
+                <div style="margin-top: -2%;" class="filter__form__item col-8">
 
                         <div class="kt-widget14__header">
                             <h3 style="font-weight: 400;" class="kt-widget14__title">
