@@ -20,11 +20,19 @@
 
                         </h3>
                         <br>
-                        <div class="filter__form__input">
+                        <div class="filter__form__input col-12">
                             <input style="text-align: center" type="text" placeholder="Search Downloads">
                             <span class="icon_search"></span>
+                            <h3 style="font-weight: 400; font-size: 20px; margin-top: 2%; margin-bottom: -1%;" class="kt-widget14__title">
+                                Top Searches :
+                                <div style="background-color: #ffffff00;" class="latest__blog__text">
+                                    <a style="font-size: large;" href="#">Read More</a>
+                                </div>
 
-                            <p style="margin-top: 2%; margin-bottom: -1%;">Top Searches : </p>
+                            </h3>
+
+
+
                         </div>
 
                     </div>
