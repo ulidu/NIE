@@ -74,7 +74,7 @@
             box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form">
                     <div class="filter__form__item filter__form__item--search">
                         <div class="filter__form__input">
-                            <img width="120px" height="120px" class="img_small" src="img/school-students.jpg"
+                            <img width="120px" height="120px" class="" src="img/school-students.jpg"
                                  style="margin-left: -19px; margin-top: -4%; margin-bottom: -4%;">
                         </div>
                     </div>
@@ -109,7 +109,7 @@
             box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form">
                     <div class="filter__form__item filter__form__item--search">
                         <div class="filter__form__input">
-                            <img width="120px" height="120px" class="img_small" src="img/postgraduate-01-mobile.jpg"
+                            <img width="120px" height="120px" class="" src="img/postgraduate-01-mobile.jpg"
                                  style="margin-left: -19px; margin-top: -4%; margin-bottom: -4%;">
                         </div>
                     </div>
@@ -144,7 +144,7 @@
             box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form">
                     <div class="filter__form__item filter__form__item--search">
                         <div class="filter__form__input">
-                            <img width="120px" height="120px" class="img_small" src="img/smart.png"
+                            <img width="120px" height="120px" class="" src="img/smart.png"
                                  style="margin-left: -19px; margin-top: -4%; margin-bottom: -4%;">
                         </div>
                     </div>
