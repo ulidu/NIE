@@ -202,7 +202,7 @@
 
                 <form action="#" class="filter__form">
 
-                    <div style="text-align: center;" class="filter__form__item">
+                    <div style="text-align: center; width: 84%;" class="filter__form__item">
 
                         <div class="kt-widget14__header">
                             <hr class="new4">
@@ -230,7 +230,7 @@
 
                 <form action="#" class="filter__form">
 
-                    <div style="text-align: center;" class="filter__form__item">
+                    <div style="text-align: center;width: 84%;" class="filter__form__item">
 
                         <div class="kt-widget14__header">
                             <hr class="new4">
@@ -260,7 +260,7 @@
 
                 <form action="#" class="filter__form">
 
-                    <div style="text-align: center;" class="filter__form__item">
+                    <div style="text-align: center; width: 84%;" class="filter__form__item">
 
                         <div class="kt-widget14__header">
                             <hr class="new4">
@@ -282,15 +282,17 @@
 
 
             </div>
-            <div class="gallery__item set-bg" data-setbg="img/gallery/sp3.jpg">
-
-
+            <div class="gallery__item set-bg">
+                <video style="position: absolute; z-index: -10000000000; width: 100%;" autoplay="autoplay" muted="muted" loop="loop">
+                    <source src="img/gallery/vd.mp4" type="video/mp4">
+                </video>
 
                 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-                <form action="#" class="filter__form">
 
-                    <div style="text-align: center;" class="filter__form__item">
+                <form style="z-index: +100000000000000000;position: absolute; width: 100%" action="#" class="filter__form">
+
+                    <div style="text-align: center; width: 84%;" class="filter__form__item">
 
                         <div class="kt-widget14__header">
                             <hr class="new4">
