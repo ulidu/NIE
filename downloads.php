@@ -24,23 +24,21 @@
                             <input style="text-align: center" type="text" placeholder="Search Downloads">
                             <span style="margin-right: 2%;" class="icon_search"></span>
 
-                            <h3 style="font-weight: 400; font-size: 20px; margin-top: 2%; margin-bottom: -1%;" class="kt-widget14__title">
+                            <h3 style="font-weight: 400; font-size: 20px; margin-top: 2%; margin-bottom: -1%;"
+                                class="kt-widget14__title">
                                 Top Searches :
 
-                                    <a class="lat_a" style="font-size: large;" href="">Biology Lesson 02</a>
-,
+                                <a class="lat_a" style="font-size: large;" href="">Biology Lesson 02</a>
+                                ,
                                 <a class="lat_a" style="font-size: large;" href="">Teacher's Guide</a>
-,
+                                ,
 
                                 <a class="lat_a" style="font-size: large;" href="">Syllabus</a>
-
 
 
                         </div>
 
                     </div>
-
-
 
 
                     <button id="hover_search" type="submit">SEARCH</button>
@@ -81,12 +79,11 @@
                             <h3 class="kt-widget14__title">
                                 Syllabus Downloads
                             </h3>
-                            <span  class="kt-widget14__desc">
+                            <span class="kt-widget14__desc">
 														  <p style="font-size: small; margin-top: 2%;">
                                                              Most of the syllabi are attached in the Teachers' Guides. Only separated English medium syllabi are displayed under this option.</p>
                        									</span>
                         </div>
-
 
 
                         <form class="filter__form__input">
@@ -98,7 +95,8 @@
                                     </h3>
                                 </div>
 
-                                <div style="width: 50%; margin-top: -8%; margin-left: 50%;" class="filter__form__select">
+                                <div style="width: 50%; margin-top: -8%; margin-left: 50%;"
+                                     class="filter__form__select">
                                     <span class="icon_group"></span>
                                     <select>
                                         <option value="">Select Grade</option>
@@ -116,7 +114,8 @@
                                     </h3>
                                 </div>
 
-                                <div style="width: 50%; margin-top: -8%; margin-left: 50%;" class="filter__form__select">
+                                <div style="width: 50%; margin-top: -8%; margin-left: 50%;"
+                                     class="filter__form__select">
                                     <span class="icon_globe-2"></span>
                                     <select>
                                         <option value="">Select Medium</option>
@@ -134,7 +133,8 @@
                                     </h3>
                                 </div>
 
-                                <div style="width: 50%; margin-top: -8%; margin-left: 50%;" class="filter__form__select">
+                                <div style="width: 50%; margin-top: -8%; margin-left: 50%;"
+                                     class="filter__form__select">
                                     <span class="icon_book"></span>
                                     <select>
                                         <option value="">Select Subject</option>
@@ -144,11 +144,12 @@
                                 </div>
                             </div>
 
-                            <p style="text-align: right; margin-bottom: -1%; "><a href="#" style="font-family: 'Poppins',sans-serif; font-size: large;" class="primary-btn">Search</a></p>
+                            <p style="text-align: right; margin-bottom: -1%; "><a href="#"
+                                                                                  style="font-family: 'Poppins',sans-serif; font-size: large;"
+                                                                                  class="primary-btn">Search</a></p>
 
                         </form>
                     </div>
-
 
 
                 </form>
@@ -172,12 +173,11 @@
                             <h3 class="kt-widget14__title">
                                 Teacher's Guide Downloads
                             </h3>
-                            <span  class="kt-widget14__desc">
+                            <span class="kt-widget14__desc">
 														  <p style="font-size: small; margin-top: 2%;">
                                                              Most of the syllabi are attached in the Teachers' Guides. Only separated English medium syllabi are displayed under this option.</p>
                        									</span>
                         </div>
-
 
 
                         <form class="filter__form__input">
@@ -189,7 +189,8 @@
                                     </h3>
                                 </div>
 
-                                <div style="width: 50%; margin-top: -8%; margin-left: 50%;" class="filter__form__select">
+                                <div style="width: 50%; margin-top: -8%; margin-left: 50%;"
+                                     class="filter__form__select">
                                     <span class="icon_group"></span>
                                     <select>
                                         <option value="">Select Grade</option>
@@ -207,7 +208,8 @@
                                     </h3>
                                 </div>
 
-                                <div style="width: 50%; margin-top: -8%; margin-left: 50%;" class="filter__form__select">
+                                <div style="width: 50%; margin-top: -8%; margin-left: 50%;"
+                                     class="filter__form__select">
                                     <span class="icon_globe-2"></span>
                                     <select>
                                         <option value="">Select Medium</option>
@@ -225,7 +227,8 @@
                                     </h3>
                                 </div>
 
-                                <div style="width: 50%; margin-top: -8%; margin-left: 50%;" class="filter__form__select">
+                                <div style="width: 50%; margin-top: -8%; margin-left: 50%;"
+                                     class="filter__form__select">
                                     <span class="icon_book"></span>
                                     <select>
                                         <option value="">Select Subject</option>
@@ -235,10 +238,11 @@
                                 </div>
                             </div>
 
-                            <p style="text-align: right; margin-bottom: -1%; "><a href="#" style="font-family: 'Poppins',sans-serif; font-size: large;" class="primary-btn">Search</a></p>
+                            <p style="text-align: right; margin-bottom: -1%; "><a href="#"
+                                                                                  style="font-family: 'Poppins',sans-serif; font-size: large;"
+                                                                                  class="primary-btn">Search</a></p>
                         </form>
                     </div>
-
 
 
                 </form>
@@ -261,57 +265,16 @@
         </div>
 
         <div class="row">
-        <div class="col-6">
-
-            <form style="position:relative;
-    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form hover-div">
-
-
-                <div style="margin-top: -2%;" class="filter__form__item col-8">
-
-                    <div class="kt-widget14__header">
-                        <h3 style="font-weight: 400;" class="kt-widget14__title">
-                            Grade V Scholarship
-                        </h3>
-
-
-                        <p style="text-align: left; font-size: 15px;">Fifteen minutes extra will be provided for Grade V Scholarship Examination on October.</p>
-
-                        <div style="background-color: #ffffff00; margin-left: -9%; margin-bottom: -10%; margin-top: -15%;"
-                             class="latest__blog__text">
-                            <a style="font-size: large;" href="#">Download PDF</a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="filter__form__item filter__form__item--search">
-                    <div class="filter__form__input">
-                        <img height="120px" class="" src="img/downloads/pdf2.png"
-                             style=" margin-top: -2%; margin-bottom: -4%;">
-                    </div>
-                </div>
-
-            </form>
-
-        </div>
-
-
-
-
-
-
             <div class="col-6">
 
                 <form style="position:relative;
     -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
        -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form hover-div">
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#"
+                      class="filter__form hover-div">
 
 
-
-                <div style="margin-top: -2%;" class="filter__form__item col-8">
+                    <div style="margin-top: -2%;" class="filter__form__item col-8">
 
                         <div class="kt-widget14__header">
                             <h3 style="font-weight: 400;" class="kt-widget14__title">
@@ -319,7 +282,47 @@
                             </h3>
 
 
-                            <p style="text-align: left; font-size: 15px;">Fifteen minutes extra will be provided for Grade V Scholarship Examination on October.</p>
+                            <p style="text-align: left; font-size: 15px;">Fifteen minutes extra will be provided for
+                                Grade V Scholarship Examination on October.</p>
+
+                            <div style="background-color: #ffffff00; margin-left: -9%; margin-bottom: -10%; margin-top: -15%;"
+                                 class="latest__blog__text">
+                                <a style="font-size: large;" href="#">Download PDF</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="filter__form__item filter__form__item--search">
+                        <div class="filter__form__input">
+                            <img height="120px" class="" src="img/downloads/pdf2.png"
+                                 style=" margin-top: -2%; margin-bottom: -4%;">
+                        </div>
+                    </div>
+
+                </form>
+
+            </div>
+
+
+            <div class="col-6">
+
+                <form style="position:relative;
+    -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
+       -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#"
+                      class="filter__form hover-div">
+
+
+                    <div style="margin-top: -2%;" class="filter__form__item col-8">
+
+                        <div class="kt-widget14__header">
+                            <h3 style="font-weight: 400;" class="kt-widget14__title">
+                                Grade V Scholarship
+                            </h3>
+
+
+                            <p style="text-align: left; font-size: 15px;">Fifteen minutes extra will be provided for
+                                Grade V Scholarship Examination on October.</p>
 
                             <div style="background-color: #ffffff00; margin-left: -9%; margin-bottom: -10%; margin-top: -15%;"
                                  class="latest__blog__text">
@@ -349,11 +352,11 @@
                 <form style="position:relative;
     -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
        -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form hover-div">
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#"
+                      class="filter__form hover-div">
 
 
-
-                <div style="margin-top: -2%;" class="filter__form__item col-8">
+                    <div style="margin-top: -2%;" class="filter__form__item col-8">
 
                         <div class="kt-widget14__header">
                             <h3 style="font-weight: 400;" class="kt-widget14__title">
@@ -361,7 +364,8 @@
                             </h3>
 
 
-                            <p style="text-align: left; font-size: 15px;">Fifteen minutes extra will be provided for Grade V Scholarship Examination on October.</p>
+                            <p style="text-align: left; font-size: 15px;">Fifteen minutes extra will be provided for
+                                Grade V Scholarship Examination on October.</p>
 
                             <div style="background-color: #ffffff00; margin-left: -9%; margin-bottom: -10%; margin-top: -15%;"
                                  class="latest__blog__text">
@@ -382,20 +386,16 @@
             </div>
 
 
-
-
-
-
             <div class="col-6">
 
                 <form style="position:relative;
     -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
        -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form hover-div">
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#"
+                      class="filter__form hover-div">
 
 
-
-                <div style="margin-top: -2%;" class="filter__form__item col-8">
+                    <div style="margin-top: -2%;" class="filter__form__item col-8">
 
                         <div class="kt-widget14__header">
                             <h3 style="font-weight: 400;" class="kt-widget14__title">
@@ -403,7 +403,8 @@
                             </h3>
 
 
-                            <p style="text-align: left; font-size: 15px;">Fifteen minutes extra will be provided for Grade V Scholarship Examination on October.</p>
+                            <p style="text-align: left; font-size: 15px;">Fifteen minutes extra will be provided for
+                                Grade V Scholarship Examination on October.</p>
 
                             <div style="background-color: #ffffff00; margin-left: -9%; margin-bottom: -10%; margin-top: -15%;"
                                  class="latest__blog__text">
@@ -425,7 +426,6 @@
 
 
         </div>
-
 
 
         <br>
@@ -436,11 +436,11 @@
                 <form style="position:relative;
     -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
        -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form hover-div">
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#"
+                      class="filter__form hover-div">
 
 
-
-                <div style="margin-top: -2%;" class="filter__form__item col-8">
+                    <div style="margin-top: -2%;" class="filter__form__item col-8">
 
                         <div class="kt-widget14__header">
                             <h3 style="font-weight: 400;" class="kt-widget14__title">
@@ -448,7 +448,8 @@
                             </h3>
 
 
-                            <p style="text-align: left; font-size: 15px;">Fifteen minutes extra will be provided for Grade V Scholarship Examination on October.</p>
+                            <p style="text-align: left; font-size: 15px;">Fifteen minutes extra will be provided for
+                                Grade V Scholarship Examination on October.</p>
 
                             <div style="background-color: #ffffff00; margin-left: -9%; margin-bottom: -10%; margin-top: -15%;"
                                  class="latest__blog__text">
@@ -469,20 +470,16 @@
             </div>
 
 
-
-
-
-
             <div class="col-6">
 
                 <form style="position:relative;
     -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
        -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;
-            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#" class="filter__form hover-div">
+            box-shadow:0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1) ;" action="#"
+                      class="filter__form hover-div">
 
 
-
-                <div style="margin-top: -2%;" class="filter__form__item col-8">
+                    <div style="margin-top: -2%;" class="filter__form__item col-8">
 
                         <div class="kt-widget14__header">
                             <h3 style="font-weight: 400;" class="kt-widget14__title">
@@ -490,7 +487,8 @@
                             </h3>
 
 
-                            <p style="text-align: left; font-size: 15px;">Fifteen minutes extra will be provided for Grade V Scholarship Examination on October.</p>
+                            <p style="text-align: left; font-size: 15px;">Fifteen minutes extra will be provided for
+                                Grade V Scholarship Examination on October.</p>
 
                             <div style="background-color: #ffffff00; margin-left: -9%; margin-bottom: -10%; margin-top: -15%;"
                                  class="latest__blog__text">
@@ -513,8 +511,8 @@
 
         </div>
 
-        <p style="text-align: center; margin-bottom: -1%; margin-top: 4%;"><img style="-webkit-filter: drop-shadow(0px 0px 4px #222);
-  filter: drop-shadow(0px 0px 4px #222);" width="3%" src="img/downloads/arr.png"></p>
+        <p style="text-align: center; margin-bottom: -1%; margin-top: 4%;"><img src="img/notices/arr.gif" width="6%;">
+        </p>
 
 
         <br><br><br><br>
