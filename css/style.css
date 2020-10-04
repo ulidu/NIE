@@ -1233,16 +1233,12 @@ ol {
 
 
 .hover-div1{
-	border-style: solid;
-	border-width: 2px;
-	border-color: transparent transparent transparent #E9AD28;
+
 	transition: 0.5s;
 }
 .hover-div1:hover{
 
-	border-style: solid;
-	border-width: 2px;
-	border-color: #1d1c1c;
+	opacity: 0.7;
 	cursor: pointer;
 
 }

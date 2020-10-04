@@ -165,7 +165,7 @@
 
                         <div class="kt-widget14__header">
                             <h3 style="font-weight: 400;" class="kt-widget14__title">
-                                Publicashion of SAARC
+                                Publication of SAARC
                             </h3>
 
 
@@ -314,20 +314,21 @@
                     </div>
 
                 </div>
+
                 <div class="row">
                     <div class="col-lg-3 p-0 order-lg-1 col-md-6 order-md-1">
-                        <div class="latest__blog__pic set-bg" data-setbg="img/bakthi.jpg"></div>
+                        <div class="latest__blog__pic set-bg hover-div1" data-setbg="img/bakthi.jpg"></div>
                     </div>
                     <div class="col-lg-3 p-0 order-lg-2 col-md-6 order-md-2">
-                        <div class="latest__blog__text">
-                            <div class="label">Religious</div>
+                        <div id="a" class="latest__blog__text">
+                            <div id="b" class="label">Religious</div>
                             <h5>Bhakthi Gee Program at the Faculty of ELDM Meepe</h5>
                             <p><i class="fa fa-clock-o"></i> 19th March, 2020</p>
                             <a href="#">Read More</a>
                         </div>
                     </div>
                     <div class="col-lg-3 p-0 order-lg-3 col-md-6 order-md-4">
-                        <div class="latest__blog__pic set-bg" data-setbg="img/educ.jpg"></div>
+                        <div class="latest__blog__pic set-bg hover-div1" data-setbg="img/educ.jpg"></div>
                     </div>
                     <div class="col-lg-3 p-0 order-lg-4 col-md-6 order-md-3">
                         <div class="latest__blog__text">
@@ -338,7 +339,7 @@
                         </div>
                     </div>
                     <div class="col-lg-3 p-0 order-lg-6 col-md-6 order-md-5">
-                        <div class="latest__blog__pic latest__blog__pic__last__row set-bg"
+                        <div class="latest__blog__pic latest__blog__pic__last__row set-bg hover-div1"
                              data-setbg="img/charity.jpg"></div>
                     </div>
                     <div class="col-lg-3 p-0 order-lg-5 col-md-6 order-md-6">
@@ -350,7 +351,7 @@
                         </div>
                     </div>
                     <div class="col-lg-3 p-0 order-lg-8 col-md-6 order-md-8">
-                        <div class="latest__blog__pic latest__blog__pic__last__row set-bg"
+                        <div class="latest__blog__pic latest__blog__pic__last__row set-bg hover-div1"
                              data-setbg="img/grad.jpg"></div>
                     </div>
                     <div class="col-lg-3 p-0 order-lg-7 col-md-6 order-md-7">
