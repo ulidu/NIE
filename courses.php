@@ -19,7 +19,6 @@
                 <div style="text-align: left" class="section-title">
                     <br><br><br>
                     <h2 style="font-size: ">NIE COURSES</h2>
-
                 </div>
             </div>
 
