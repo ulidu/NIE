@@ -70,9 +70,9 @@ var KTSweetAlert2Demo = function() {
             swal.fire({
                 position: 'top-right',
                 type: 'success',
-                title: 'Task Assigned Successfully',
+                title: 'You have successfully subscribed to our newsletter',
                 showConfirmButton: false,
-                timer: 1000
+                timer: 5000
             });
         });
 

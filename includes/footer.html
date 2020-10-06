@@ -45,7 +45,7 @@
                 <div class="col-lg-5 col-md-8 col-sm-12">
                     <div class="footer__newslatter">
                         <h4>Subscribe our newsletter</h4>
-                        <form action="#">
+                        <form onsubmit="return false;">
                             <input type="text" placeholder="Your E-mail Address">
                             <button id="kt_sweetalert_demo_6">Subscribe</button>
                         </form>
@@ -105,7 +105,34 @@
 
 </script>
 <!--End of Tawk.to Script-->
+<script>
 
+    function UrlExists(url)
+    {
+        var http = new XMLHttpRequest();
+        http.open('HEAD', url, false);
+        http.send();
+        return http.status!=404;
+    }
+
+    document.onreadystatechange = function()
+    {
+        var anchorElements = document.getElementsByTagName('a');
+        for (var i in anchorElements)
+            anchorElements[i].onclick = function(th)
+            {
+                th.preventDefault();
+                if (UrlExists(this.href)) { window.location=this.href; }
+                else {
+
+                    swal.fire("Dummy link !", "You have clicked a dummy link", "info");
+
+                }
+                return false;
+            }
+    }
+
+</script>
 
 <!-- Js Plugins -->
 <script src="js/jquery-3.3.1.min.js"></script>
@@ -115,13 +142,11 @@
 <script src="js/jquery.slicknav.js"></script>
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/main.js"></script>
+
 <!--begin::Page Scripts(used by sweetalert) -->
 <script src="js/sweetalert2.js" type="text/javascript"></script>
 <script src="js/datatables.bundle.js" type="text/javascript"></script>
-
-<!--end::Page Vendors -->
-
-<!--begin::Page Scripts(used by this page) -->
+<script src="js/plugins.bundle.js" type="text/javascript"></script>
 <script src="js/scrollable.js" type="text/javascript"></script>
 
 </body>
