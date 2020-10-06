@@ -343,13 +343,12 @@
                         <div class="kt-portlet__head kt-portlet__head--lg">
                             <div class="kt-portlet__head-label">
 										<span class="kt-portlet__head-icon">
-											<i class="kt-font-brand flaticon2-line-chart"></i>
+											              <span style="color: #E9AD28;" class="icon_clipboard"></span>
 										</span>
                                 <h3 style="font-size: 18px; color: #E9AD28; font-weight: 500;">
                                     List of courses that are offered for all teachers and Teacher Educators
                                 </h3>
                             </div>
-
                         </div>
                         <div class="kt-portlet__body">
 
