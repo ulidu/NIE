@@ -38,6 +38,7 @@ body {
     height: 100%;
     font-family: "DM Sans", sans-serif;
     -webkit-font-smoothing: antialiased;
+
 }
 
 h1,
@@ -117,6 +118,8 @@ ol {
     margin-bottom: 55px;
     text-align: center;
 }
+
+
 
 .section-title h5 {
     color: #E9AD28;
